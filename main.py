@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Suporte a denúncias :red[Tinder]')
+st.title('Suporte à denúncias :red[Tinder]')
 
 st.text('Informe seus dados e clique em enviar para prosseguirmos com o atendimento.')
 
