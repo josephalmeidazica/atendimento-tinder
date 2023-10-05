@@ -9,3 +9,5 @@ title = st.text_input('Nome completo')
 phone = st.text_input('Telefone')
 
 cpf = st.text_input('CPF')
+
+st.button('Enviar')
